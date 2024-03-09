@@ -47,7 +47,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>jenkinsCiCd</finalName>
+		<finalName>jenkinscicd</finalName>
 	</build>
 
 </project>
